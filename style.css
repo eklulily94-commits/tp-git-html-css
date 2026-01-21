@@ -1,0 +1,132 @@
+.h1 {
+    font-family: serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.img{
+    width: 22px;
+    height: auto;
+}
+
+.body {
+    margin: 0%;
+    background-color: rgb(216, 179, 135);
+}
+
+.div {
+  display: grid;
+  grid-template-columns: repeat(2, 250px);
+  gap: 15px;
+  padding: 20px;
+  row-gap: 20px;  
+ column-gap: 10px;
+ max-width: 1000px;
+ margin: 0 auto;
+ justify-content: space-between;
+ margin-left: 2%;
+ margin-right: 10%;
+
+}
+
+.patisseies-artisanales {
+background-image: url(img/patisseies-artisanales.png);
+background-position: center;
+background-size: cover; 
+border: 2px solid black ;
+filter: brightness(40%);
+width: 500px;
+height: 400px;
+font-weight: bold;
+font-size: 20px; 
+color: #ffffff;
+text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+ 
+}
+
+.prix1 {
+font-weight: bold;
+font-size: 20px;
+width: 500px;
+height: 400px;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+margin-top: 30%;
+}
+
+.prix2 {
+font-weight: bold;
+font-size: 20px;
+width: 500px;
+height: 400px;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+margin-top: 30%;
+}
+
+.viennoiseries {
+background-image: url(img/viennoiseries.png);
+background-position: center;
+background-size: cover; 
+border: 2px solid black ;
+filter: brightness(40%);
+width: 500px;
+height: 400px;
+font-weight: bold;
+font-size: 20px; 
+color: #ffffff;
+text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
+.petits-fours {
+background-image: url(img/petits-fours.png);
+background-position: center;
+background-size: cover; 
+border: 2px solid black ;
+filter: brightness(40%);
+width: 500px;
+height: 400px;
+font-weight: bold;
+font-size: 20px; 
+color: #ffffff;
+text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
+.prix3 {
+font-weight: bold;
+font-size: 20px;
+width: 500px;
+height: 400px;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+margin-top: 30%;
+}
+
+.prix4 {
+font-weight: bold;
+font-size: 20px;
+width: 500px;
+height: 400px;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+margin-top: 30%;
+}
+
+.petit-déjeuner {
+background-image: url(img/petit-déjeuner.png);
+background-position: center;
+background-size: cover; 
+border: 2px solid black ;
+filter: brightness(40%);
+width: 500px;
+height: 400px;
+font-weight: bold;
+font-size: 20px; 
+color: #ffffff; 
+text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
+}
+
