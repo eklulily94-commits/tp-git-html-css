@@ -1,0 +1,32 @@
+h1 {
+ text-align:center   
+}
+h5 {
+    text-align: center;
+}
+.img{
+    width: 22px;
+    height: auto;
+}
+.body{
+    background-image: url(img/fécran.jpeg);
+}
+h2{
+    text-align: right;
+}
+p{
+    text-align: right;
+}
+form {
+    text-align: right;  
+    }
+    
+    h3{
+        text-align: left;
+    }
+    button{
+        text-align: left;
+    }
+    :placeholder-shown{
+        text-align: left;
+    }
